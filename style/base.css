@@ -136,7 +136,7 @@ a.image-link
 #nostalgia-navigation-prev-button:hover,
 #nostalgia-navigation-next-button:hover
 {
-	background-color:#FFC000;
+	background-color:#0066ff;
 }
 
 .jspDrag,
@@ -189,7 +189,7 @@ ul.blog-list li.blog-list-post div.blog-list-post-image div.caption,
 ul.image-list div.image-list-caption div.image-list-caption-subtitle,
 .nostalgia-accordion .ui-accordion-header.ui-state-hover a
 {
-	color:#FFC000;
+	color:#0066ff;
 }
 
 /******************************************************************************/
@@ -756,7 +756,7 @@ input.button
 
 			#media-control #slidecaption-wrapper #slidecaption span.supersized-caption-title
 			{
-				color:#FFC000;
+				color:#0066ff;
 				line-height:190%;
 			}
 
@@ -1041,6 +1041,7 @@ input.button
 		width:0px;
 		height:100%;
 		overflow:hidden;
+		background-color: #80cfe7;
 	}
 
 		/**********************************************************************/
@@ -1084,7 +1085,7 @@ input.button
 			min-width:520px;
 			position:absolute;
 			padding:0px 0px 0px 30px;
-			background-color:rgba(255,192,0,0.9);
+			background-color:#0077ffe6;
 			-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FFC000,endColorstr=#E5FFC000);
 			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#E5FFC000,endColorstr=#E5FFC000);
 		}
