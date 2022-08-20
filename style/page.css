@@ -262,6 +262,11 @@ div.page-about
 {
 
 }
+	div.page-about p.subtitle-paragraph,
+	div.page-about p.subtitle-paragraph span.bold
+	{
+		font-size: 38px;
+	}
 
 	div.page-about ul.list-1
 	{
