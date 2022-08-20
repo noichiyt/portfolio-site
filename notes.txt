@@ -1,0 +1,6 @@
+Terminal Commands
+- Start web server
+  http-server .
+
+Git
+- remember to commit your changes afte working on a specific update
