@@ -1,6 +1,13 @@
+Open Terminal 
+- Click on Terminal in menubar then click New Terminal 
+
 Terminal Commands
 - Start web server
   http-server .
 
 Git
 - remember to commit your changes afte working on a specific update
+
+Deploy changes
+- commit all your changes with a message
+- click on Push button
