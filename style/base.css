@@ -1232,12 +1232,13 @@ input.button
 
 					#nostalgia-tab-footer ul.social-list li a:hover
 					{
-						background-position:0px -16px;
+						/* background-position:0px -16px; */
+						color: #FFFFFF;
 					}
 
-					#nostalgia-tab-footer ul.social-list li a.social-list-google	{ background-image:url('../image/icon/icon-social/icon_social_google.png');		}
-					#nostalgia-tab-footer ul.social-list li a.social-list-twitter	{ background-image:url('../image/icon/icon-social/icon_social_twitter.png');	}
-					#nostalgia-tab-footer ul.social-list li a.social-list-facebook	{ background-image:url('../image/icon/icon-social/icon_social_facebook.png');	}
+					#nostalgia-tab-footer ul.social-list li a.social-list-youtube	{ background-image:url('../image/icon/icon-social/youtube.svg');	}
+					#nostalgia-tab-footer ul.social-list li a.social-list-twitter	{ background-image:url('../image/icon/icon-social/twitter.svg');	}
+					#nostalgia-tab-footer ul.social-list li a.social-list-tiktok	{ background-image:url('../image/icon/icon-social/tiktok.svg');		}
 
 /******************************************************************************/
 /*	Responsive styles														  */
